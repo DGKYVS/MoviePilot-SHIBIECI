@@ -42,6 +42,7 @@ S(eason)? ?0?([2-9]) *\[(OVA|OAD)0?\(?(\d)?\)?\] => S0E\2\4
 (?<=(1080p|2160p)\.)iT\. => -iTunes.
 (?<!-)(Disney\+|playWEB|Crunchyroll|Netflix|Amazon|AppleTV\+) => -\1
 White Album 2 => 白色相簿2
+Saiki Kusuo no Sainan => 齐木楠雄的灾难
 #################综艺##################
 #再见爱人
 再见爱人 => 再见爱人{[tmdbid=130099;type=tv]}
