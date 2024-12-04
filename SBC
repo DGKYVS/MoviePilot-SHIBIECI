@@ -41,9 +41,9 @@ S(eason)? ?0?([2-9]) *\[(OVA|OAD)0?\(?(\d)?\)?\] => S0E\2\4
 (?<=(1080p|2160p)\.)Max\. => -MAX.
 (?<=(1080p|2160p)\.)iT\. => -iTunes.
 (?<!-)(Disney\+|playWEB|Crunchyroll|Netflix|Amazon|AppleTV\+) => -\1
-White Album 2 => 白色相簿2
-\[S1\] Saiki Kusuo no Sainan => 齐木楠雄的灾难.S01
-\[S2\] Saiki Kusuo no Sainan 2 => 齐木楠雄的灾难.S02
+^White Album 2 => 白色相簿2
+^Saiki Kusuo no Sainan$ => 齐木楠雄的灾难.S01
+^Saiki Kusuo no Sainan 2$ => 齐木楠雄的灾难.S02
 ^Yahari Ore no Seishun Lovecome wa Machigatte Iru$ => 我的青春恋爱物语果然有问题.S01
 ^Yahari Ore no Seishun Lovecome wa Machigatte Iru\. Zoku$ => 我的青春恋爱物语果然有问题.S02
 ^Oregairu Kan$ => 我的青春恋爱物语果然有问题.S03
