@@ -53,6 +53,7 @@ S(eason)? ?0?([2-9]) *\[(OVA|OAD)0?\(?(\d)?\)?\] => S0E\2\4
 ^Fate\/Kaleid Liner Prisma Illya 2wei!$ => 魔法少女☆伊莉雅.S02
 ^Fate\/Kaleid Liner Prisma Illya 2wei Herz!$ => 魔法少女☆伊莉雅.S03
 ^Fate\/Kaleid Liner Prisma Illya 3rei!!$ => 魔法少女☆伊莉雅.S04
+^葬送之芙莉莲$ => 葬送的芙莉莲
 #################综艺##################
 #再见爱人
 再见爱人 => 再见爱人{[tmdbid=130099;type=tv]}
