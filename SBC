@@ -49,10 +49,10 @@ S(eason)? ?0?([2-9]) *\[(OVA|OAD)0?\(?(\d)?\)?\] => S0E\2\4
 ^Oregairu Kan$ => 我的青春恋爱物语果然有问题.S03
 ^Stand\.by\.Me\.2016$ => 一起同过窗
 \[Up to 21°C\] Pokemon \(2023\) => 宝可梦 地平线
-^Fate/Kaleid Liner Prisma Illya$ => Fate/kaleid liner プリズマ☆イリヤ.S01
-^Fate/Kaleid Liner Prisma Illya 2wei!$ => Fate/kaleid liner プリズマ☆イリヤ.S02
-^Fate/Kaleid Liner Prisma Illya 2wei Herz!$ => Fate/kaleid liner プリズマ☆イリヤ.S03
-^Fate/Kaleid Liner Prisma Illya 3rei!!$ => Fate/kaleid liner プリズマ☆イリヤ.S04
+^Fate\/Kaleid Liner Prisma Illya$ => Fate/kaleid liner プリズマ☆イリヤ.S01
+^Fate\/Kaleid Liner Prisma Illya 2wei!$ => Fate/kaleid liner プリズマ☆イリヤ.S02
+^Fate\/Kaleid Liner Prisma Illya 2wei Herz!$ => Fate/kaleid liner プリズマ☆イリヤ.S03
+^Fate\/Kaleid Liner Prisma Illya 3rei!!$ => Fate/kaleid liner プリズマ☆イリヤ.S04
 ^葬送之芙莉莲$ => 葬送的芙莉莲
 #################综艺##################
 #再见爱人
