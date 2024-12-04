@@ -49,10 +49,10 @@ White Album 2 => 白色相簿2
 ^Oregairu Kan$ => 我的青春恋爱物语果然有问题.S03
 ^Stand\.by\.Me\.2016$ => 一起同过窗
 \[Up to 21°C\] Pokemon \(2023\) => 宝可梦 地平线
-^Fate／Kaleid Liner Prisma Illya 2wei Herz!$ => 魔法少女☆伊莉雅.S03
-^Fate／Kaleid Liner Prisma Illya 2wei!$ => 魔法少女☆伊莉雅.S02
-^Fate／Kaleid Liner Prisma Illya 3rei!!$ => 魔法少女☆伊莉雅.S04
 ^Fate／Kaleid Liner Prisma Illya$ => 魔法少女☆伊莉雅.S01
+^Fate／Kaleid Liner Prisma Illya 2wei!$ => 魔法少女☆伊莉雅.S02
+^Fate／Kaleid Liner Prisma Illya 2wei Herz!$ => 魔法少女☆伊莉雅.S03
+^Fate／Kaleid Liner Prisma Illya 3rei!!$ => 魔法少女☆伊莉雅.S04
 #################综艺##################
 #再见爱人
 再见爱人 => 再见爱人{[tmdbid=130099;type=tv]}
