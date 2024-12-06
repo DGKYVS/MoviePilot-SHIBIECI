@@ -1,3 +1,4 @@
+#https://raw.githubusercontent.com/Putarku/MoviePilot-Help/refs/heads/main/Words/tv.txt
 #猎冰
 The.Hunter.S01(?=.*(?:2024)) => 猎冰.The.Hunter.2024.S01
 
@@ -81,6 +82,8 @@ Fabulous Beasts S01(?=.*E(2[5-9]|3[0-4]).*ADWeb) => Fabulous Beasts S03 && S03 <
 
 #白夜追凶s2
 \[白夜破晓\].Day.and.Night => 白夜追凶
+
+#https://raw.githubusercontent.com/Putarku/MoviePilot-Help/refs/heads/main/Words/Words/anime.txt
 ## 10月新番 ##
 #重来吧，魔王大人！ (2019)
 魔王陛下，RETRY！R => 重来吧，魔王大人！ (2019)
@@ -526,6 +529,8 @@ HEVC Main10P => x265
 # Extra集 屏蔽词
 \(Extra\d\)
 \(Extra #[0-9]*\)
+
+#https://raw.githubusercontent.com/Putarku/MoviePilot-Help/refs/heads/main/Words/Words/Words/other.txt
 #[ANi]
 隊長小翼 Season2 青少年篇 => {[tmdbid=77240;type=tv;s=2]}
 至高之牌 2 => 至高之牌.S02 && 至高之牌.S02 - <> [1080P] >> EP-12
@@ -845,6 +850,8 @@ Soreike.Anpanman.Tobase.Kibou.no.hankachi => 面包超人：跳跃吧！希望�
 LetS.Go.Anpanman.Sparkle.Princess.Vanilla.of.the.Land.of.Ice.Cream => 走起！面包超人闪耀！冰激凌国的香草姬
 Eiga.Kureyon.Shinchan.Bakauma.B-kyu.gurume.sabaibaru => 蜡笔小新：超级美味！B级美食大逃亡
 Kureyon.Shinchan.Gekitotsu.Rakugakingudamu.to.Hobo.Shi-Ri.no.Yusha => 蜡笔小新：激战！涂鸦王国和约四位勇士
+
+#自定义
 \[Movie\]
 episode\.\d{1}
 \.(第\d{1,2}集)\. => \1
