@@ -119,34 +119,6 @@ Kizumonogatari III - => {[tmdbid=46195;type=tv;s=15]}
 \[Nekomoe kissaten\&VCB-Studio\] Zoku Owarimonogatari  => {[tmdbid=46195;type=tv;s=17]}
 物語系列 第外季＆第怪季 => 物语系列 (2009).S18
 Monogatari.Series.Off.Monster => {[tmdbid=46195;type=tv;s=18]}
-#物语系列屏蔽词
-\(歌物語\d+\)
-\(歌物語\)
-歌物語
-\[CM\d+\]
-\[INFO\d+\]
-\[INFO
-\[MENU\d+\]
-\[MENU
-\[NCOP\d+\]
-\[NCOP
-\[NCED\d+\]
-\[NCED
-\[Menu\d+\]
-\[Menu
-\[PV\d+\]
-\[PV
-\[SP\d+\]
-\[SP
-\[Preview\d+\]
-Monogatari Serise\[Preview
-\[Recap
-\[Web Preview
-NCOP\_
-Monogatari Serise\[Recap\_Iv2\]
-副音轨
-000
-DVD\_VIDEO
 #共享识别词：https://raw.githubusercontent.com/Putarku/MoviePilot-Help/refs/heads/main/Words/TV.txt
 #共享识别词：https://raw.githubusercontent.com/Putarku/MoviePilot-Help/refs/heads/main/Words/anime.txt
 #共享识别词：https://raw.githubusercontent.com/Putarku/MoviePilot-Help/refs/heads/main/Words/other.txt
